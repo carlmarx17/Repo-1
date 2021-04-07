@@ -1,5 +1,5 @@
 #include <iostream>
-
+/. 
 int main(int arcgc, char **argv)
 {
 	int a; // declarrarla
